@@ -37,156 +37,156 @@
 
         <div class="container">
 
-			<section id="about" class="row">
-				<header role="banner" class="col-md-3">
-					<h1>
-						<strong>About Demo group</strong>
-					</h1>
+        			<section id="about" class="row">
+        				<header role="banner" class="col-md-3">
+        					<h1>
+        						<strong>About Demo group</strong>
+        					</h1>
 
-					<h2>What we do</h2>
-				</header>
-				<div class="col-md-9">
-					<p>DEMO Group Lorem ipsum dolor sit amet, id mei dicam denique vulputate, usu ex soleat cetero. In aeterno equidem has, no iudico quando mel, vim eu quis ridens. Sea iusto legendos an. Dicat mediocritatem ad sed Lorem ipsum dolor sit amet, id mei dicam denique vulputate, usu ex soleat cetero. In aeterno equidem has, no iudico quando mel, vim eu quis ridens. Sea iusto legendos an. Dicat mediocritatem ad sed.</p>
-					<section id="works">
-						<header role="banner" class="col-md-9">
-							<h3>Some of our works</h3>
-						</header>
-						<div class="row">
-							<ul class="col-md-5">
-								<li><a href="#">A company.com</a></li>
-								<li><a href="#">B company.com</a></li>
-								<li><a href="#">C company.com</a></li>
-								<li><a href="#">D company.com</a></li>
-							</ul>
-							<ul class="col-md-4">
-								<li><a href="#">E company.com</a></li>
-								<li><a href="#">F company.com</a></li>
-								<li><a href="#">G company.com</a></li>
-								<li><a href="#">H company.com</a></li>
-							</ul>
-						</div>
-					</section>
-					<aside>
-						<a href="#">Click here to download a PDF of our recent works</a>
-					</aside>
-				</div>
-			</section>
-			<section id="news">
-				<header role="banner">
-					<h1>
-						<strong>News</strong>
-					</h1>
-				</header>
-				<ul>
-					<li>
-						<article class="row">
-							<header role="banner" class="col-md-3">
-								<h1>THE NEW DEMO.COM THERE’S NEW VOICE IN THE WORLD OF ONLINE SHOPPING</h1>
-							</header>
-							<div class="col-md-5">
-								<p>
-									<time datetime="2012-09-03">3 September 2012</time>
-									Online shoppers can now purchase their favorite outfit simply by speaking to their computer.
-									After launching fashion e-commerce back in early 2000, fakeBrand.com has been completely reinvented
-									and redesigned. As part of its new look, it introduces <strong>Speak &amp; Shop™</strong>, a revolutionary
-									feature
-									for online fashion where text search meets voice recognition from DEMO Group Technology and R&amp;D
-									divisions - innovation Made in Italy.
-								</p>
-								<p>Millions of visitors from around the globe are welcomed to the NEW fakeBrand.com by its digital cover
-									featuring the famous Chinese top model <strong>Xiao Wen Ju</strong> wearing a video-dress conceived by mixing
-									fashion with technology.</p>
-							</div>
-							<div class="col-md-4">
-								<p>Style and design lovers can search their favorite outfit, shoes, accessories or design objects by simply clicking or writing their favorite color of the season, or by using the feature <strong>Speak &amp; Shop™</strong> allowing them to state their preferred color in <strong>nine languages</strong> (British English, Italian, French, Russian, Spanish, German, US English, Japanese and Korean): the digital cover page will return an edited selection of fashion and design pieces in the desired color. Xiao Wen Ju's kaleidoscopic look too is transformed in the same color, creating a mono-chrome page of products and dreams. Retail therapy meets chromo-therapy – all of course using Google Chrome</p>
-							</div>
-						</article>
-					</li>
-					<li class="more">
-						<article class="row">
-							<header role="banner" class="col-md-3">
-								<h1>DISCOVERED IN AFRICA BY VOGUE ITALIA EXCLUSIVELY ON DEMO.COM</h1>
-							</header>
-							<div class="col-md-5">
-								<p>fakeBrand.com, the leading virtual store for multi-brand fashion and design in the world, in
-									collaboration with Vogue Italia presents a new and innovative project dedicated to the forefront
-									of <strong>African fashion</strong>.</p>
-								<p>From May 2012 Discovered in Africa by Vogue Italy Exclusively on fakeBrand.com offers fashion fans
-									around the world the chance to add an original touch of exotic style and elegance to their
-									wardrobes, just in time for summer.</p>
-							</div>
-							<div class="col-md-4">
-								<p>Thanks to her role as <strong>Goodwill Ambassador</strong> for the Fashion4Development project, Director of Vogue Italia <strong>Franca Sozzani</strong> is directly involved in the UN’s fashion based initiatives combatting poverty and gender inequality in Africa. Together with sustainable fashion expert Marina Spadafora, Franca Sozzani has selected 10 brands to represent the vanguard of African creativity. Thanks to the presence of fakeBrand.com in over 100 countries, these products will have the chance to be appreciated and purchased by fashionistas from every corner of the planet</p>
-							</div>
-						</article>
-					</li>
-					<li class="more">
-						<article class="row">
-							<header role="banner" class="col-md-3">
-								<h1>LE CYCLOPE ARDENT - THE SOFTNESS OF CERAMICS AND THE RICHNESS OF PRECIOUS METALS</h1>
-							</header>
-							<div class="col-md-5">
-								<p>Cutting-edge French design brand Moustache joins forces with the leading virtual store for multi-brand fashion and design in the world, fakeBrand.com, to create an exciting new product - <strong>Le Cyclope Ardent</strong>, available exclusively on fakeBrand.com from the end of March 2012.</p>
-								<p>The Cyclope mirror, designed by young French designer <strong>Ionna Vautrin</strong>, gets its name from the convex mirrors, (which in French are called ‘witches' eyes) - Vautrin takes this magical object and perches it atop a soft cone crafted from clay, creating a table-top mirror with a distinctly sculptural feel, evoking the mysterious monolithic statues of far-off primitive cultures or the minimal eloquence of sculptors like Brancusi and Moore.</p>
-							</div>
-							<div class="col-md-4">
-								<p>Originally available in a matt ceramic finish, for fakeBrand.com, Vautrin has created 3 new and unique new versions – Le Cyclope Ardent. Le Cyclope Ardent is coated in a lustrous hi-gloss metallic finish, 3 different metals chosen for their evocative richness, luster and sophistication: opulent gold, elegant platinum and warm, alluring copper. Like a sculpture for the home, Le Cyclope Ardent sits atop any table or desk and gazes out at the world around it, offering users a glimpse into a strange and intriguing vision of the world.</p>
-							</div>
-						</article>
-					</li>
-				</ul>
-				<aside role="complementary">
-					<button id="cmd_less_more" class="btn btn-default pull-right">Show Less News</button>
-				</aside>
-			</section>
-			<section id="four_things" class="row">
-				<nav role="navigation" class="col-md-3">
-					<ul>
-						<li><a href="#items/one" class="things_nav">one</a></li>
-						<li><a href="#items/two" class="things_nav">two</a></li>
-						<li><a href="#items/three" class="things_nav">three</a></li>
-						<li><a href="#items/four" class="things_nav">four</a></li>
-					</ul>
-				</nav>
-				<section id="current" class="col-md-9">
-				</section>
-			</section>
-			<div class="row">
-				<section id="contact_us" class="col-md-9 col-md-offset-3">
-					<header role="banner">
-						<h1>Contact us</h1>
-					</header>
-					<p>For more information about our services, and how we can work with you, please provide us with the
-						following items of information.</p>
+        					<h2>What we do</h2>
+        				</header>
+        				<div class="col-md-9">
+                            <p>DEMO Group Lorem ipsum dolor sit amet, id mei dicam denique vulputate, usu ex soleat cetero. In aeterno equidem has, no iudico quando mel, vim eu quis ridens. Sea iusto legendos an. Dicat mediocritatem ad sed Lorem ipsum dolor sit amet, id mei dicam denique vulputate, usu ex soleat cetero. In aeterno equidem has, no iudico quando mel, vim eu quis ridens. Sea iusto legendos an. Dicat mediocritatem ad sed.</p>
+                            <section id="works">
+                                <header role="banner" class="col-md-9">
+                                    <h3>Some of our works</h3>
+                                </header>
+                                <div class="row">
+                                    <ul class="col-md-5">
+                                        <li><a href="#">A company.com</a></li>
+                                        <li><a href="#">B company.com</a></li>
+                                        <li><a href="#">C company.com</a></li>
+                                        <li><a href="#">D company.com</a></li>
+                                    </ul>
+                                    <ul class="col-md-4">
+                                        <li><a href="#">E company.com</a></li>
+                                        <li><a href="#">F company.com</a></li>
+                                        <li><a href="#">G company.com</a></li>
+                                        <li><a href="#">H company.com</a></li>
+                                    </ul>
+                                </div>
+                            </section>
+        					<aside>
+        						<a href="#">Click here to download a PDF of our recent works</a>
+        					</aside>
+        				</div>
+        			</section>
+        			<section id="news">
+        				<header role="banner">
+        					<h1>
+        						<strong>News</strong>
+        					</h1>
+        				</header>
+        				<ul>
+        					<li>
+        						<article class="row">
+        							<header role="banner" class="col-md-3">
+        								<h1>THE NEW DEMO.COM THERE’S NEW VOICE IN THE WORLD OF ONLINE SHOPPING</h1>
+        							</header>
+        							<div class="col-md-5">
+        								<p>
+        									<time datetime="2012-09-03">3 September 2012</time>
+        									Online shoppers can now purchase their favorite outfit simply by speaking to their computer.
+        									After launching fashion e-commerce back in early 2000, fakeBrand.com has been completely reinvented
+        									and redesigned. As part of its new look, it introduces <strong>Speak &amp; Shop™</strong>, a revolutionary
+        									feature
+        									for online fashion where text search meets voice recognition from DEMO Group Technology and R&amp;D
+        									divisions - innovation Made in Italy.
+        								</p>
+        								<p>Millions of visitors from around the globe are welcomed to the NEW fakeBrand.com by its digital cover
+        									featuring the famous Chinese top model <strong>Xiao Wen Ju</strong> wearing a video-dress conceived by mixing
+        									fashion with technology.</p>
+        							</div>
+        							<div class="col-md-4">
+        								<p>Style and design lovers can search their favorite outfit, shoes, accessories or design objects by simply clicking or writing their favorite color of the season, or by using the feature <strong>Speak &amp; Shop™</strong> allowing them to state their preferred color in <strong>nine languages</strong> (British English, Italian, French, Russian, Spanish, German, US English, Japanese and Korean): the digital cover page will return an edited selection of fashion and design pieces in the desired color. Xiao Wen Ju's kaleidoscopic look too is transformed in the same color, creating a mono-chrome page of products and dreams. Retail therapy meets chromo-therapy – all of course using Google Chrome</p>
+        							</div>
+        						</article>
+        					</li>
+        					<li class="more">
+        						<article class="row">
+        							<header role="banner" class="col-md-3">
+        								<h1>DISCOVERED IN AFRICA BY VOGUE ITALIA EXCLUSIVELY ON DEMO.COM</h1>
+        							</header>
+        							<div class="col-md-5">
+        								<p>fakeBrand.com, the leading virtual store for multi-brand fashion and design in the world, in
+        								collaboration with Vogue Italia presents a new and innovative project dedicated to the forefront
+        								of <strong>African fashion</strong>.</p>
+        								<p>From May 2012 Discovered in Africa by Vogue Italy Exclusively on fakeBrand.com offers fashion fans
+        									around the world the chance to add an original touch of exotic style and elegance to their
+        									wardrobes, just in time for summer.</p>
+        							</div>
+        							<div class="col-md-4">
+        								<p>Thanks to her role as <strong>Goodwill Ambassador</strong> for the Fashion4Development project, Director of Vogue Italia <strong>Franca Sozzani</strong> is directly involved in the UN’s fashion based initiatives combatting poverty and gender inequality in Africa. Together with sustainable fashion expert Marina Spadafora, Franca Sozzani has selected 10 brands to represent the vanguard of African creativity. Thanks to the presence of fakeBrand.com in over 100 countries, these products will have the chance to be appreciated and purchased by fashionistas from every corner of the planet</p>
+        							</div>
+        						</article>
+        					</li>
+        					<li class="more">
+        						<article class="row">
+        							<header role="banner" class="col-md-3">
+        								<h1>LE CYCLOPE ARDENT - THE SOFTNESS OF CERAMICS AND THE RICHNESS OF PRECIOUS METALS</h1>
+        							</header>
+        							<div class="col-md-5">
+        								<p>Cutting-edge French design brand Moustache joins forces with the leading virtual store for multi-brand fashion and design in the world, fakeBrand.com, to create an exciting new product - <strong>Le Cyclope Ardent</strong>, available exclusively on fakeBrand.com from the end of March 2012.</p>
+        								<p>The Cyclope mirror, designed by young French designer <strong>Ionna Vautrin</strong>, gets its name from the convex mirrors, (which in French are called ‘witches' eyes) - Vautrin takes this magical object and perches it atop a soft cone crafted from clay, creating a table-top mirror with a distinctly sculptural feel, evoking the mysterious monolithic statues of far-off primitive cultures or the minimal eloquence of sculptors like Brancusi and Moore.</p>
+        							</div>
+        							<div class="col-md-4">
+        								<p>Originally available in a matt ceramic finish, for fakeBrand.com, Vautrin has created 3 new and unique new versions – Le Cyclope Ardent. Le Cyclope Ardent is coated in a lustrous hi-gloss metallic finish, 3 different metals chosen for their evocative richness, luster and sophistication: opulent gold, elegant platinum and warm, alluring copper. Like a sculpture for the home, Le Cyclope Ardent sits atop any table or desk and gazes out at the world around it, offering users a glimpse into a strange and intriguing vision of the world.</p>
+        							</div>
+        						</article>
+        					</li>
+        				</ul>
+        				<aside role="complementary">
+        					<button id="cmd_less_more" class="btn btn-default pull-right">Show Less News</button>
+        				</aside>
+        			</section>
+        			<section id="four_things" class="row">
+        				<nav role="navigation" class="col-md-3">
+        					<ul>
+        						<li><a href="#items/one" class="things_nav">one</a></li>
+        						<li><a href="#items/two" class="things_nav">two</a></li>
+        						<li><a href="#items/three" class="things_nav">three</a></li>
+        						<li><a href="#items/four" class="things_nav">four</a></li>
+        					</ul>
+        				</nav>
+        				<section id="current" class="col-md-9">
+        				</section>
+        			</section>
+        			<div class="row">
+        				<section id="contact_us" class="col-md-9 col-md-offset-3">
+        					<header role="banner">
+        						<h1>Contact us</h1>
+        					</header>
+        					<p>For more information about the services we offer, and how we can work with you, please provide us with the
+        						following items of information.</p>
 
-					<form role="form" class="form-horizontal">
-						<div class="form-group">
-							<label for="name" class="col-sm-3 control-label">Contact name<sup title="The field is required">*</sup></label>
-							<div class="col-sm-6">
-								<input type="text" class="form-control" name="name" id="name" required="required">
-							</div>
-						</div>
-						<div class="form-group">
-							<label for="email" class="col-sm-3 control-label">Contact email address<sup title="The field is required">*</sup></label>
-							<div class="col-sm-6">
-								<input type="email" class="form-control" name="email" id="email" required="required">
-							</div>
-						</div>
-						<div class="form-group">
-							<label for="phone" class="col-sm-3 control-label">Contact phone number</label>
-							<div class="col-sm-6">
-								<input type="tel" class="form-control" name="phone" id="phone">
-							</div>
-						</div>
-						<button type="submit" class="btn btn-default">Send</button>
-					</form>
-				</section>
-			</div>
-			<footer role="contentinfo" class="pull-right">
-				Powered by DEMO	Group - Copyright © 2000-2017 DEMO S.p.A. - All Rights Reserved - SIAE Licence no. ****
-			</footer>
+        					<form role="form" class="form-horizontal">
+        						<div class="form-group">
+        							<label for="name" class="col-sm-3 control-label">Contact name<sup title="The field is required">*</sup></label>
+        							<div class="col-sm-6">
+        								<input type="text" class="form-control" name="name" id="name" required="required">
+        							</div>
+        						</div>
+        						<div class="form-group">
+        							<label for="email" class="col-sm-3 control-label">Contact email address<sup title="The field is required">*</sup></label>
+        							<div class="col-sm-6">
+        								<input type="email" class="form-control" name="email" id="email" required="required">
+        							</div>
+        						</div>
+        						<div class="form-group">
+        							<label for="phone" class="col-sm-3 control-label">Contact phone number</label>
+        							<div class="col-sm-6">
+        								<input type="tel" class="form-control" name="phone" id="phone">
+        							</div>
+        						</div>
+        						<button type="submit" class="btn btn-default">Send</button>
+        					</form>
+        				</section>
+        			</div>
+        			<footer role="contentinfo" class="pull-right">
+                        Powered by DEMO	Group - Copyright © 2000-2017 DEMO S.p.A. - All Rights Reserved - SIAE Licence no. ****
+        			</footer>
 
-        </div>
+                </div>
 
 		<script type="text/template" id="tpl_item">
 			<p><%=name%></p>
