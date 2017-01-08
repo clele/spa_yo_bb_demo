@@ -9,10 +9,10 @@
 			"Altezza modella: 178cm"
 		],
 		"images": [
-			"http://localhost:4003/images/47/47141306nv_12n_f.jpg",
-			"http://localhost:4003/images/47/47141306nv_12n_r.jpg",
-			"http://localhost:4003/images/47/47141306nv_12n_e.jpg",
-			"http://localhost:4003/images/47/47141306nv_12n_d.jpg"
+			"https://spa-yo-bb.herokuapp.com/images/47/47141306nv_12n_f.jpg",
+			"https://spa-yo-bb.herokuapp.com/images/47/47141306nv_12n_r.jpg",
+			"https://spa-yo-bb.herokuapp.com/images/47/47141306nv_12n_e.jpg",
+			"https://spa-yo-bb.herokuapp.com/images/47/47141306nv_12n_d.jpg"
 		]
 	}
 }
